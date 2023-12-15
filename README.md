@@ -11,6 +11,7 @@ Feel free to contribute by adding new topics, sharing interesting tree facts, or
 ## Acknowledgments
 
 Special thanks to the wonderful world of trees, providing inspiration for structured and branching exploration.
+
 **Note:** I made this in my 2nd semester so don't mind my poor coding skills!
 
 Happy tree studying! 🌳📚
